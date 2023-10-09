@@ -19,6 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Electric Elk Tech Wiki
+author:
+  name: Trevor Grant
 email: tech@electricelk.co
 description: >- # this means to ignore newlines until "baseurl:"
   This is a collection of articles meant to guide you on working on your Electric Elk
@@ -27,17 +29,13 @@ url: "https://tech.electricelk.co" # the base hostname & protocol for your site,
 twitter_username: electricelkco
 github_username:  ElectricElk
 
-collections:
-  aseries:
-    basic:
-      output: true
-    tires:
-      output: true
-
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
+# https://github.com/jekyll/jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
