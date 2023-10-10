@@ -22,8 +22,9 @@ title: Electric Elk Tech Wiki
 author:
   name: Trevor Grant
 email: tech@electricelk.co
-description: >- # this means to ignore newlines until "baseurl:"
-  This is a collection of articles meant to guide you on working on your Electric Elk
+description: # >- # this means to ignore newlines until "baseurl:"
+  Copyright 2023 Electric Elk LLC,
+  All Rights Reserved.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tech.electricelk.co" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: electricelkco
