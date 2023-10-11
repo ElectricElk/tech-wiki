@@ -11,16 +11,16 @@ Here you will learn all about the maintainance and repair of an Electric Elk.
 Additionally, you will find pages on the history of various model and feature designs.
 
 [Prototypes](/prototypes)
-* [X1](/prototypes/x1) - The Arctic Fox
-* [X2](/prototypes/x2) - The Dutch Front Loader (coming soon)
-* [X3](/prototypes/x3) - The Egg (coming soon)
+* [X1](/prototypes/x1.html) - The Arctic Fox
+* [X2](/prototypes/x2.html) - The Dutch Front Loader (coming soon)
+* [X3](/prototypes/x3.html) - The Egg (coming soon)
 
 [A Series Trikes](/a-series)
-* [A133-Overview](/a-series/a133)
+* [A133-Overview](/a-series/a133.html)
 * Basic Maintenance
-  * [Accessing Control Box](/a-series/a133-access-control-box) (a.k.a 'popping 
+  * [Accessing Control Box](/a-series/a133-access-control-box.html) (a.k.a 'popping 
   the hood')(coming soon)
-  * [Replacing a rear inner-tube](/a-series/a133-replace-rear-inner-tube)
+  * [Replacing a rear inner-tube](/a-series/a133-replace-rear-inner-tube.html)
     (coming soon)
 
 [Generative AI]](/generative-ai)(coming soon)
