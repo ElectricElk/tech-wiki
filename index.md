@@ -18,9 +18,11 @@ Additionally, you will find pages on the history of various model and feature de
 [A Series Trikes](/a-series)
 * [A133-Overview](/a-series/a133.html)
 * Basic Maintenance
-  * [Accessing Control Box](/a-series/a133-access-control-box.html) (a.k.a 'popping 
-  the hood')(coming soon)
-  * [Replacing a rear inner-tube](/a-series/a133-replace-rear-inner-tube.html)
-    (coming soon)
+  * [Accessing Control Box](/a-series/basic-maintenance/control-box.html) (a.k.
+    a 'popping 
+  the hood')
+  * [Replacing a rear inner-tube](/a-series/basic-maintenance/rear-innertube.html)
+   
+
 
 [Generative AI]](/generative-ai)(coming soon)
