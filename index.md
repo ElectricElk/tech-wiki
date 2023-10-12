@@ -21,7 +21,8 @@ Additionally, you will find pages on the history of various model and feature de
   * [Accessing Control Box](/a-series/basic-maintenance/control-box.html) (a.k.
     a 'popping 
   the hood')
-  * [Replacing a rear inner-tube](/a-series/basic-maintenance/rear-innertube.html)
+  * [Replacing a Rear Inner-Tube](/a-series/basic-maintenance/rear-innertube.
+    html)
    
 
 
