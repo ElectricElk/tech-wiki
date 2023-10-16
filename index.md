@@ -23,7 +23,9 @@ Additionally, you will find pages on the history of various model and feature de
   the hood')
   * [Replacing a Rear Inner-Tube](/a-series/basic-maintenance/rear-innertube.
     html)
-   
+  
+Upgrades
+* [Tail lamps](/a-series/upgrades/tail-lamps.html) 
 
 
 [Generative AI]](/generative-ai)(coming soon)
