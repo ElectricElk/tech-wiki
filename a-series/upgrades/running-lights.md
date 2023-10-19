@@ -45,7 +45,7 @@ installation. Ensure you have all the necessary parts and tools before starting.
     - Use zip ties to secure the harness to existing wiring to prevent it from dangling or getting caught.
 5. **Insert Running Lights:**
     - Insert the LED running lights through the grommet into the clear pouch where they are mounted.
-  ![insert running lights](./images/running-lights/04.jpg)
+     ![insert running lights](./images/running-lights/04.jpg)
 6. **Match the Wiring:**
     - Refer to the running lights' instructions to determine the correct wiring for the LED strips.
     - Create a pigtail that matches the one on the wire harness to connect to the LED strips.
@@ -54,13 +54,13 @@ installation. Ensure you have all the necessary parts and tools before starting.
   ![match wiring](./images/running-lights/05.jpg) 
 7. *Test the Installation:**
     - Before finalizing the installation, test the LED running lamp/turn signal strips to ensure they operate correctly.
-  ![test installation](./images/running-lights/06.jpg)
+      ![test installation](./images/running-lights/06.jpg)
 
 ## Tips:
 
 - Removing the end caps from the running lights can make it easier to thread them through the grommet.
 - If you have difficulty pulling the running lights through the grommet, consider using needle nose pliers to aid in the process.
-  ![pliers](./images/running-lights/07.jpg)
+    ![pliers](./images/running-lights/07.jpg)
 - A long dowel may also be helpful for 'threading' the running lights 
   through the sleeve.
    ![dowel](./images/running-lights/08.jpg)
