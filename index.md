@@ -27,6 +27,6 @@ Additionally, you will find pages on the history of various model and feature de
 Upgrades
 * [Tail lamps](/a-series/upgrades/tail-lamps.html) 
 * [Running Lights](/a-series/upgrades/running-lights.html)
-
+* [Cutting Windows](/a-series/upgrades/cutting-windows.html)
 
 [Generative AI]](/generative-ai)(coming soon)
