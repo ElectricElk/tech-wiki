@@ -29,7 +29,8 @@ Additionally, you will find pages on the history of various model and feature de
 * [Tail lamps](/a-series/upgrades/tail-lamps.html) 
 * [Running Lights](/a-series/upgrades/running-lights.html)
 * [Cutting Windows](/a-series/upgrades/cutting-windows.html)
-* [Box Padding](/a-series/upgrades/saloon-padding.md)
+* [Box Padding](/a-series/upgrades/saloon-padding.html)
+* [Rear Badges](/a-series/upgrades/rear-badges.html)
 
 ## Generative-AI
 
